@@ -1,0 +1,1 @@
+window.relogio = new Relogio();
